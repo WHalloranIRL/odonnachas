@@ -1,53 +1,53 @@
 ![Logo Image](assets/images/readme/logo.png)
 
-# O'Donnachas Gastropub
+## O'Donnachas Gastropub
 
-## Poject Description
+### Poject Description
 
-### This project will showcase the location, menus, contact info, services for the gastropub
+#### This project will showcase the location, menus, contact info, services for the gastropub
 
-## Table of Contents
+### Table of Contents
 
-# UX
+## UX
 
-## User Goal
+### User Goal
 
-## User Story
+### User Story
 
-## Owner Goals
+### Owner Goals
 
-# Design
+## Design
 
-## Font
+### Font
 
-## Colors
+### Colors
 
-## Icons
+### Icons
 
-## Structure
+### Structure
 
-# Wireframes
+## Wireframes
 
-# Features
+## Features
 
-## Navigation
+### Navigation
 
-## Hero Section
+### Hero Section
 
-## Who We Are Section
+### Who We Are Section
 
-## Services Section
+### Services Section
 
-## Contact Us Section
+### Contact Us Section
 
-## Location Section
+### Location Section
 
-## Footer
+### Footer
 
-# Testing
+## Testing
 
-# Bugs
+## Bugs
 
-# Deployment
+## Deployment
 
-# Credits
+## Credits
