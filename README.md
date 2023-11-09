@@ -79,11 +79,11 @@ Using Figma I have created initially the mobile first look and feel then scaled 
 
 ## Technologies
 
-### Language 
+### Language
 
 - HTML/CSS
 
-## Tools
+### Tools
 
 - VSCode
 - Github
@@ -96,6 +96,10 @@ Using Figma I have created initially the mobile first look and feel then scaled 
 ## Bugs
 
 ## Deployment
+
+Once code has been completed, it is pushed to Github for deployment using the pages feature. The site is now accessible via:
+
+- Link here
 
 ## Contributions
 
