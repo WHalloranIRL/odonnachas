@@ -101,7 +101,7 @@ img {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(2, 1fr);
 }
 
 /* Site Nav Style */
@@ -115,7 +115,6 @@ img {
 }
 
 .site-nav h1 {
-  grid-column: 1/4;
   grid-row: inherit;
   padding-bottom: 5px;
 }
@@ -137,20 +136,20 @@ img {
 
 .hero .leading-text {
   font-size: 200%;
+  grid-column: 1/1;
   padding-top: 220px;
-  grid-column: 1/5;
   justify-content: center;
 }
 
 .hero .secondary-text {
   padding-top: 5px;
   padding-bottom: 10px;
-  grid-column: 1/5;
+  grid-column: 1/1;
   justify-content: center;
 }
 
 .hero .button {
-  grid-column: 1/5;
+  grid-column: 1/1;
   width: fit-content;
 }
 
