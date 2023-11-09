@@ -65,17 +65,31 @@ Using Figma I have created initially the mobile first look and feel then scaled 
 
 ### Navigation
 
+- Nav bar will remain fixed to the top and responsive to screen size. It will contain the menu items to move around the sections and the bar logo
+
 ### Hero Section
+
+- Hero will contact a large image with a text overly giving a short description of the gastropub
 
 ### Who We Are Section
 
+- Color block with text to explain a little about the place, history.
+
 ### Services Section
+
+- Services displayed on individual cards, allowing users to see quickly what is on offer
 
 ### Contact Us Section
 
+- Full contact information provided plus an email us form
+
 ### Location Section
 
+- Embedded good maps location plus address details
+
 ### Footer
+
+- Social media links and copywright information
 
 ## Technologies
 
