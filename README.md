@@ -61,6 +61,8 @@ Based on current user experiences, I am choosing to go with a Mobile first appro
 
 Using Figma I have created initially the mobile first look and feel then scaled based on larger screen requirements
 
+![Wireframe Image](/wireframe/Project%201.png)
+
 ## Features
 
 ### Navigation
