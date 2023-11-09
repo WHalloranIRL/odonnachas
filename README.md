@@ -77,9 +77,9 @@ Using Figma I have created initially the mobile first look and feel then scaled 
 
 ### Footer
 
-### Technologies
+## Technologies
 
-## Language 
+### Language 
 
 - HTML/CSS
 
