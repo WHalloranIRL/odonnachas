@@ -47,7 +47,7 @@ This site is aimed at giving you information about the gastropub O'Donnachas of 
 
 ### Font
 
-In order to get a nice feel and complementary fonts I used (https://fontjoy.com/) in order to select the best fonts I felt for the page. Using (https://fonts.google.com/) I added the following fonts. Poly for headings, Fira Sans for subheading and Work Sans for body content.
+In order to get a nice feel and complementary fonts I used (https://fonts.google.com/) in order to select the best fonts I felt for the page. Using (https://fonts.google.com/) I added the following fonts - Poppins
 
 ### Colors
 
