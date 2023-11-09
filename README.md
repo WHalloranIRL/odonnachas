@@ -101,6 +101,7 @@ Using Figma I have created initially the mobile first look and feel then scaled 
 
 - VSCode
 - Github
+- Figma
 - HTML Validator
 - CSS Validator
 - Unsplash
