@@ -1,8 +1,9 @@
 /* Variables to make changes easier */
 :root {
-  --primarycolor: ;
-  --secondary-color: ;
-  --accentcolor: ;
+  --primarycolor: #18280d;
+  --secondary-color: #7c3626;
+  --thirdcolor: #f5853f;
+  --fourthcolor: #f7f3e3;
 }
 
 /* Resets */
@@ -16,7 +17,34 @@ li {
   list-style-type: none;
 }
 
-/* General and Utility Styles */
+/* General and Utility Styles - Should not change */
+body {
+  background-color: var(--primarycolor);
+  overflow-x: hidden;
+}
+
+.button {
+  background-color: var(--fourthcolor);
+  border: 2px solid var(--secondary-color);
+  color: var(--secondary-color);
+  padding: 6px 16px;
+  text-transform: uppercase;
+  box-shadow: 1px 2px 1px rgba(0, 0, 0, 0.6);
+  display: inline-block;
+  border-radius: 20px;
+}
+
+.button:hover {
+  background-color: var(--thirdcolor);
+  color: var(--thirdcolor);
+}
+
+.input.text {
+  background-color: var(--fourthcolor);
+  color: #18280d;
+  border-radius: 5px;
+  padding: 10px;
+}
 
 /* Main Styles */
 
