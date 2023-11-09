@@ -70,6 +70,12 @@ a {
   display: none;
 }
 
+.logo-image {
+  width: 70px;
+  height: auto;
+  padding: 5px 0px;
+}
+
 /* Mobile Styles */
 
 /* Grid Layout */
@@ -89,7 +95,7 @@ header {
   width: 100%;
   display: flex;
   justify-content: space-between;
-  align-items: baseline;
+  align-items: center;
 }
 
 nav {
