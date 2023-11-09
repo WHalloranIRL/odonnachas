@@ -122,7 +122,7 @@ img {
 /* Hero Section Style */
 
 #hero {
-  background: url(assets/images/hero-image-min.jpg) center center / cover;
+  background: url("assets/images/hero-image-min.jpg") center center / cover;
   /* overflow: hidden; */
   height: 70vh;
   padding: 10px;
