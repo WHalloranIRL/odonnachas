@@ -59,7 +59,7 @@ Based on current user experiences, I am choosing to go with a Mobile first appro
 
 ## Wireframes
 
-Using Figma 
+Using Figma I have created initially the mobile first look and feel then scaled based on larger screen requirements
 
 ## Features
 
@@ -77,6 +77,20 @@ Using Figma
 
 ### Footer
 
+### Technologies
+
+## Language 
+
+- HTML/CSS
+
+## Tools
+
+- VSCode
+- Github
+- HTML Validator
+- CSS Validator
+- Unsplash
+
 ## Testing
 
 ## Bugs
@@ -84,7 +98,6 @@ Using Figma
 ## Deployment
 
 ## Contributions
-- Simen
-- Mate Rizco
 
-## Credits
+- Simen Daehlin
+- Mate Rizco
