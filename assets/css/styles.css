@@ -84,14 +84,10 @@ a {
 .site-nav {
   padding-bottom: 20px;
   border-bottom: 2px solid var(--thirdcolor);
-  /* position: fixed; */
+  position: fixed;
   width: 100vw;
   background-color: var(--primarycolor);
   z-index: 99;
-}
-
-.site-nav h1 {
-  padding-bottom: 5px;
 }
 
 /* Hero Section Style */
@@ -131,7 +127,6 @@ a {
 /* About Us Styles */
 
 #about {
-  display: grid;
   padding: 20px;
   background: var(--primarycolor);
 }
