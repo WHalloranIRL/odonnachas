@@ -33,9 +33,9 @@ body {
 }
 
 .button {
-  background-color: var(--fourthcolor);
+  background-color: var(--thirdcolor);
   border: 2px solid var(--secondary-color);
-  color: var(--secondary-color);
+  color: var(--fourthcolor);
   padding: 6px 16px;
   text-transform: uppercase;
   box-shadow: 1px 2px 1px rgba(0, 0, 0, 0.6);
@@ -45,24 +45,71 @@ body {
 
 .button:hover {
   background-color: var(--thirdcolor);
-  color: var(--thirdcolor);
+  color: var(--fourthcolor);
 }
 
-.input.text {
+.text-input {
   background-color: var(--fourthcolor);
-  color: #18280d;
+  color: var(--primarycolor);
   border-radius: 5px;
-  padding: 10px;
+  padding: 5px;
+}
+
+.input,
+textarea {
+  background-color: var(--fourthcolor);
+  color: var(--primarycolor);
+  border-radius: 5px;
+  padding: 5px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: var(--fourthcolor);
+}
+
+p,
+li,
+a,
+label {
+  color: var(--fourthcolor);
+}
+
+a {
+  text-decoration: none;
 }
 
 img {
-  width: 100px;
-  height: 100px;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
 }
 
 /* Main Styles */
 
 /* Mobile Styles */
+
+/* Grid Layouts */
+
+/* Overall grid styles */
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4 1fr);
+}
+
+.site-nav {
+}
+
+/* .services {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    justify-content: center;
+    text-align: center;
+  } */
 
 /* Tablet Styles */
 @media screen (min-width: 620px) {
