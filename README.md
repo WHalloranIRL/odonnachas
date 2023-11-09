@@ -2,13 +2,20 @@
 
 ## O'Donnachas Gastropub
 
-### Poject Description
+### Project Description
 
 #### This project will showcase the location, menus, contact info, services for the gastropub
 
 This site is aimed at giving you information about the gastropub O'Donnachas of Kilmeaden. Showcasing the food and drinks available, they great coutry pub atmosphere, friendly staff and warm welcome. It will dispaly location and contact information.
 
 ### Table of Contents
+
+## Roadmap
+
+- Static website, menu, contact info, location, services
+- Review section
+- Social media integration
+- Table reservation booking system
 
 ## UX
 
@@ -20,13 +27,13 @@ This site is aimed at giving you information about the gastropub O'Donnachas of 
 - Quality relevant content
 - Location & contact info easily found
 - Simple contact us form
-- Links to all socials 
+- Links to all socials
 
 ### User Story
 
 - As a user, I want to be able to navigate the website easily
 - As a user, I want to be able to see what services you have available
-- As a user, I want to be see images of the food you have 
+- As a user, I want to be see images of the food you have
 - As a user, I want to easily find you
 - As a user, I want ways to contact you to be seen
 
@@ -40,13 +47,19 @@ This site is aimed at giving you information about the gastropub O'Donnachas of 
 
 ### Font
 
+In order to get a nice feel and complementary fonts I used (https://fontjoy.com/) in order to select the best fonts I felt for the page. Using (https://fonts.google.com/) I added the following fonts. Poly for headings, Fira Sans for subheading and Work Sans for body content.
+
 ### Colors
 
 ### Icons
 
 ### Structure
 
+Based on current user experiences, I am choosing to go with a Mobile first approach. Using a single scrollable page with snap scrolling. I will modeling on iPhone 15 & Glaxay S20. I will be using breakpoints to make the page responsive for larger screens.
+
 ## Wireframes
+
+Using Figma 
 
 ## Features
 
@@ -69,5 +82,9 @@ This site is aimed at giving you information about the gastropub O'Donnachas of 
 ## Bugs
 
 ## Deployment
+
+## Contributions
+- Simen
+- Mate Rizco
 
 ## Credits
