@@ -51,6 +51,8 @@ In order to get a nice feel and complementary fonts I used (https://fonts.google
 
 ### Colors
 
+Using the current color set of the bar, I chose a color pallete using (https://coolors.co/)
+
 ### Icons
 
 ### Structure
