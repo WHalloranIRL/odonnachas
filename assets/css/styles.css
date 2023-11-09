@@ -1,6 +1,20 @@
 /* Variables to make changes easier */
+:root {
+  --primarycolor: ;
+  --secondary-color: ;
+  --accentcolor: ;
+}
 
 /* Resets */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li {
+  list-style-type: none;
+}
 
 /* General and Utility Styles */
 
@@ -10,15 +24,12 @@
 
 /* Tablet Styles */
 @media screen (min-width: 620px) {
-
 }
 
 /* Laptops & Large Tablets */
 @media screen (min-width: 960px) {
-    
 }
 
 /* Larger Styles */
 @media screen (min-width: 1200px) {
-    
 }
