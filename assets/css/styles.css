@@ -140,8 +140,12 @@ nav {
 .hero .leading-text {
   font-size: 200%;
   grid-column: 1/2;
-  padding-top: 220px;
+  /* padding-top: 360px; */
   justify-content: center;
+  margin-top: 360px;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 5px;
+  margin-bottom: 5px;
 }
 
 .hero .secondary-text {
