@@ -97,14 +97,67 @@ img {
 
 /* Grid Layouts */
 
-/* Overall grid styles */
+/* Overall Grid Styles */
 
 .grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
 }
 
+/* Site Nav Style */
+
 .site-nav {
+  padding-bottom: 20px;
+  border-bottom: 2px solid var(--thirdcolor);
+  position: fixed;
+  background-color: var(--primarycolor);
+  z-index: 99;
+}
+
+.site-nav h1 {
+  grid-column: 1/4;
+  grid-row: inherit;
+  padding-bottom: 5px;
+}
+
+/* Hero Section Style */
+
+#hero {
+  background: url(/assets/images/hero-image-min.jpg) center center / cover;
+  overflow: hidden;
+  height: 70vh;
+  padding: 10px;
+  top: 141px;
+  position: relative;
+}
+
+.hero {
+  top: 500px;
+}
+
+.hero .leading-text {
+  font-size: 200%;
+  padding-top: 220px;
+  grid-column: 1/5;
+  justify-content: center;
+}
+
+.hero .secondary-text {
+  padding-top: 5px;
+  padding-bottom: 10px;
+  grid-column: 1/5;
+  justify-content: center;
+}
+
+.hero .button {
+  grid-column: 1/5;
+  width: fit-content;
+}
+
+/* About Us Styles */
+
+.about {
+  grid-column: 1/5;
 }
 
 /* .services {
