@@ -53,7 +53,6 @@ In order to get a nice feel and complementary fonts I used (https://fonts.google
 
 Using the current color set of the bar, I chose a color pallete using (https://coolors.co/)
 
-
 ### Icons
 
 ### Structure
@@ -114,6 +113,12 @@ Using Figma I have created initially the mobile first look and feel then scaled 
 ## Testing
 
 ## Bugs
+
+- Form not sending correctly - Open
+
+- Contact Us and Find Us not linking correctly - Resolved
+- Overflow of nav grid on mobile - Resolved
+- Images not displaying when deployed - Resolved
 
 ## Deployment
 
