@@ -81,12 +81,6 @@ a {
   text-decoration: none;
 }
 
-img {
-  width: 100%;
-  height: auto;
-  overflow: hidden;
-}
-
 .hidden {
   display: none;
 }
@@ -165,6 +159,11 @@ img {
 }
 
 /* Services Styles */
+#services {
+  background: var(--primarycolor);
+  color: var(--fourthcolor);
+  padding: 20px;
+}
 
 .services {
   display: grid;
@@ -172,6 +171,13 @@ img {
   gap: 20px;
   justify-content: center;
   text-align: center;
+  padding: 20px;
+}
+
+.services > img {
+  width: 30px;
+  height: auto;
+  overflow: hidden;
 }
 
 /* Tablet Styles */
