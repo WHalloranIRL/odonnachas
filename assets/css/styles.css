@@ -90,7 +90,8 @@ a {
 header {
   background-color: var(--primarycolor);
   padding: 0 1rem;
-  position: fixed;
+  position: sticky;
+  top: 0;
   z-index: 99;
   width: 100%;
   display: flex;
