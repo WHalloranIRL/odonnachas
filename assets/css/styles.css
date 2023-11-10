@@ -100,7 +100,7 @@ header {
 }
 
 nav {
-  position: absolute;
+  position: relative;
   background-color: var(--primarycolor);
   width: 100%;
   left: 0;
@@ -176,16 +176,19 @@ nav {
 }
 
 .services {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  flex: 0 1 100px;
   justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  /* border: 2px solid hotpink; */
   text-align: center;
 }
 
 .services img {
-  width: 100%;
-  height: auto;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
   border-radius: 5px;
   border: 1px solid white;
